@@ -1,0 +1,3 @@
+/home/studente/ClionProjects/observer_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/studente/ClionProjects/observer_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/studente/ClionProjects/observer_2/cmake-build-debug/CMakeFiles/observer_2.dir

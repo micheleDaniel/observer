@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="observer_2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/studente/ClionProjects/observer_2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/studente/ClionProjects/observer_2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/studente/ClionProjects/observer_2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="observer_2">
+				<Option output="/home/studente/ClionProjects/observer_2/cmake-build-debug/observer_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/studente/ClionProjects/observer_2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 observer_2"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="observer_2/fast">
+				<Option output="/home/studente/ClionProjects/observer_2/cmake-build-debug/observer_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/studente/ClionProjects/observer_2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 observer_2/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/studente/ClionProjects/observer_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/studente/ClionProjects/observer_2/Display.h">
+			<Option target="observer_2"/>
+		</Unit>
+		<Unit filename="/home/studente/ClionProjects/observer_2/GUIMap.cpp">
+			<Option target="observer_2"/>
+		</Unit>
+		<Unit filename="/home/studente/ClionProjects/observer_2/GUIMap.h">
+			<Option target="observer_2"/>
+		</Unit>
+		<Unit filename="/home/studente/ClionProjects/observer_2/GameCharacter.cpp">
+			<Option target="observer_2"/>
+		</Unit>
+		<Unit filename="/home/studente/ClionProjects/observer_2/GameCharacter.h">
+			<Option target="observer_2"/>
+		</Unit>
+		<Unit filename="/home/studente/ClionProjects/observer_2/MiniGUIMap.cpp">
+			<Option target="observer_2"/>
+		</Unit>
+		<Unit filename="/home/studente/ClionProjects/observer_2/MiniGUIMap.h">
+			<Option target="observer_2"/>
+		</Unit>
+		<Unit filename="/home/studente/ClionProjects/observer_2/Observer.h">
+			<Option target="observer_2"/>
+		</Unit>
+		<Unit filename="/home/studente/ClionProjects/observer_2/Subject.h">
+			<Option target="observer_2"/>
+		</Unit>
+		<Unit filename="/home/studente/ClionProjects/observer_2/main.cpp">
+			<Option target="observer_2"/>
+		</Unit>
+		<Unit filename="/home/studente/ClionProjects/observer_2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
